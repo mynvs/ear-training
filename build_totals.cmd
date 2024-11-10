@@ -1,0 +1,1 @@
+gcc -ffast-math -O3 totals.c -o "totals.exe" -lgmp
